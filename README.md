@@ -4,4 +4,4 @@
 # Description <br>
 
 # Tools 💻
-![power-bi-logo-1080x576](https://github.com/JenishdaSelvasingh/uber_trip_analysis/assets/136103328/1d1b531d-f95a-4a69-ae07-19b8c6aba7f7)
+![power-bi-logo](https://github.com/JenishdaSelvasingh/uber_trip_analysis/assets/136103328/ea1fae82-9292-4668-b928-691cbd0d3a56)
