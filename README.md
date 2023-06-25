@@ -3,5 +3,5 @@
 
 # Description <br>
 
-# Technologies 💻
+# Tools 💻
 ![power-bi-logo-1080x576](https://github.com/JenishdaSelvasingh/uber_trip_analysis/assets/136103328/672abd38-59c9-4131-b34c-6824da62e178)
